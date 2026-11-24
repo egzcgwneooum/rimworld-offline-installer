@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | macOS 10.12 |
+| **Processor** | Core 2 Duo | Core 2 Duo |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | Intel HD Graphics 4000 or other shader model 4.0 | Intel HD Graphics 4000 or other shader model 4.0 |
+| **Storage** | 1 GB available space | 1 GB available space |
+| **OS *** | Windows 7 | Windows 7 |
 
 ---
 
